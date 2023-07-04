@@ -31,6 +31,17 @@ p {
 img {
   width: 80%;
 }
+button{
+    height: 7vh;
+    width: 9vw;
+    border-radius: 30px;
+    margin-left: 44vw;
+    margin-top: 20px;
+    background-color: #c82333;
+    color: #fff;
+    font-family: gilroy;
+    font-weight: 100;
+  }
 button:hover{
     cursor: pointer;
   }
