@@ -31,6 +31,9 @@ p {
 img {
   width: 80%;
 }
+button:hover{
+    cursor: pointer;
+  }
 
 footer {
   margin-top: 5%;
@@ -45,3 +48,4 @@ footer {
     font-size: 10px;
   }
 }
+
